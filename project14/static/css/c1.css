@@ -1,0 +1,12 @@
+h1
+{
+    color:purple;
+}
+#one:hover
+{
+    cursor:pointer;
+    color:darkred;
+    padding:20px;
+    border:3px solid darkblue;
+    background-color: yellow;
+}
